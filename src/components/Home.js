@@ -14,6 +14,9 @@ const useStyles = makeStyles((theme) => {
       justifyContent: 'center',
       width: '100%',
       [theme.breakpoints.down('lg')]: {
+        height: '90vh',
+      },
+      [theme.breakpoints.down('md')]: {
         height: '55vh',
       },
       [theme.breakpoints.down('sm')]: {
