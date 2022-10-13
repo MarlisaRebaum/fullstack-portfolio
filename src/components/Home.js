@@ -105,7 +105,7 @@ export default function Home() {
             className={classes.description}
             />
             <div>
-              <a href="https://www.linkedin.com/in/marlisa-rebaum-482659232/" 
+              <a href="https://www.linkedin.com/in/marlisarebaum/" 
                 target="_blank" rel="noreferrer"><LinkedIn className={classes.icons}/>
               </a>
               <a href="https://github.com/MarlisaRebaum" target="_blank" 

@@ -74,7 +74,7 @@ export default function Projects() {
             <Chip label="CSS3" variant="outlined" className="m-1"/>
           </CardContent>
           <CardActions>
-            <Button size="small"><a href="https://github.com/MarlisaRebaum/pet-sitting-app.git" 
+            <Button size="small"><a href="https://github.com/MarlisaRebaum/happy-paws-pet-sitters-app.git" 
               target="_blank" rel="noreferrer" className={classes.link}>GitHub</a>
             </Button>
             <Button size="small"><a href="https://pet-sitting-app-a1421.web.app/" 
